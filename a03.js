@@ -3,7 +3,7 @@
 
   Author: Amir Mohammad Esmaieeli Sikaroudi
   Email: amesmaieeli@email.arizona.edu
-  Date: Feb 20, 2022
+  Date: Feb 25, 2023
 
   The library for decoding PNG files is from:
   https://github.com/arian/pngjs
